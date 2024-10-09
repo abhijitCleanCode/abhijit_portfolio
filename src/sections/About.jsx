@@ -26,8 +26,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Abhijit</p>
               <p className="grid-subtext">
-                With 12 years of experience, I have honed my skills in both frontend and backend dev, creating dynamic
-                and responsive websites.
+                I am a passionate tech enthusiast pursuing my B.Tech in Computer Science and Engineering from Assam University, Silchar. I have experience working with small business owners, helping them enhance their online presence through customized websites and apps.
               </p>
             </div>
           </div>
@@ -40,8 +39,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
-                I specialize in a variety of languages, frameworks, and tools that allow me to build robust and scalable
-                applications
+                I specialize in a varity of languages, frameworks, and tools that help me to build robust, scalable applications. From front-end development to back-end infrastructure, I use modern technologies to deliver efficient and effective products.
               </p>
             </div>
           </div>
@@ -64,7 +62,7 @@ const About = () => {
             </div>
             <div>
               <p className="grid-headtext">I’m very flexible with time zone communications & locations</p>
-              <p className="grid-subtext">I&apos;m based in Rjieka, Croatia and open to remote work worldwide.</p>
+              <p className="grid-subtext">I&apos;m currently based in Silchar, Assam and open to remote work worldwide.</p>
               <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
             </div>
           </div>
@@ -77,8 +75,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">My Passion for Coding</p>
               <p className="grid-subtext">
-                I love solving problems and building things through code. Programming isn&apos;t just my
-                profession—it&apos;s my passion. I enjoy exploring new technologies, and enhancing my skills.
+                I love solving problems and building things that live on internet. For me programming is an art of wizardy that brings magic to the world, giving spirits to machine. I enjoy exploring new technologies, and enhancing my skills.
               </p>
             </div>
           </div>
